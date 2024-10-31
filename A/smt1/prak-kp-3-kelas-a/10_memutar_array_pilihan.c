@@ -1,5 +1,10 @@
 /*
-  Sebuah perusahaan perangkat lunak ingin membuat program yang dapat memutar elemen-elemen dalam sebuah array ke kanan sebanyak kk langkah. Bantulah mereka untuk mengimplementasikan fungsi ini!
+  === BAGIAN INI GAUSA DI COPAS ===
+
+  [Problem]
+  Sebuah perusahaan perangkat lunak ingin membuat program yang dapat memutar
+  elemen-elemen dalam sebuah array ke kanan sebanyak kk langkah.
+  Bantulah mereka untuk mengimplementasikan fungsi ini!
 
   [Input Format]
   Baris pertama: Integer nn (jumlah elemen dalam array).
