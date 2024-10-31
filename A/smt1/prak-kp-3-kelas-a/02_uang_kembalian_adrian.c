@@ -1,26 +1,26 @@
 /*
 
-  *Problem*
+  [Problem]
   Adrian bekerja sebagai kasir di SigmaMart. Tugasnya adalah menghitung jumlah harga barang
   yang dibeli oleh para pembeli, dan menerima uang yang harus dibayar. Terkadang uang yang
   diberikan tidak pas, sehingga Adrian harus memberikan uang kembalian kepada pembeli tersebut.
   Bantu Adrian menghitung jumlah uang yang perlu dikembalikan dalam bentuk pecahan uang kertas
   rupiah dengan jumlah lembar minimum.
 
-  *Input Format*
+  [Input Format]
   Input berisi nilai integer positif N, sebagai nilai dari uang kembalian.
   Tidak perlu menambah 3 digit terakhir ( 10 berarti Rp10.000, 50 berarti Rp50.000).
   
-  *Constraints*
+  [Constraints]
   1 ≤ N ≤ 1000
   
-  *Output Format*
+  [Output Format]
   Output berisi 7 baris, masing-masing baris terdiri dari 2 angka, angka pertama merupakan nilai dari uang kertas, dan angka kedua merupakan jumlah dari nilai uang kertas tersebut.
   
-  *Sample Input 0*
+  [Sample Input 0]
   65
   
-  *Sample Output 0*
+  [Sample Output 0]
   100 0
   50 1
   20 0
@@ -29,7 +29,7 @@
   2 0
   1 0
   
-  *Explanation 0*
+  [Explanation 0]
   Uang 65.000 bisa diberi kembalian minimum menggunakan 1 lembar 50.000, 1 lembar 10.000 dan 1 lembar 5.000.
 */
 
