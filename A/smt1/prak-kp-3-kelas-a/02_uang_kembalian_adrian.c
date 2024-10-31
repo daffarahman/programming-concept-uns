@@ -1,4 +1,5 @@
 /*
+  === BAGIAN INI GAUSA DI COPAS ===
 
   [Problem]
   Adrian bekerja sebagai kasir di SigmaMart. Tugasnya adalah menghitung jumlah harga barang
